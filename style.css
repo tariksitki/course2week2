@@ -1,0 +1,27 @@
+
+
+
+
+#message {
+
+    width: 910px;
+    height: 100px;
+    background-color: rgb(2, 128, 128);
+    text-align: center;
+    color: white;
+    font-size: x-large;
+    font-family: Arial, Helvetica, sans-serif;
+    
+
+}
+
+.preview {
+
+    width: 300px;
+    height: 300px;
+}
+
+.p {
+
+   
+}
